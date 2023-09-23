@@ -62,7 +62,7 @@ A comprehensive Hostel Leave Management System developed using Java and Swing.
    The system allows hostel administrators, students, and parents/guardians to register and create their accounts with relevant details. Each user type will have different access levels and 
 permissions.
 
-**User Types:** The Hostel Leave Manager typically supports different user types, each with specific roles and permissions. The main user types are:
+   ****User Types:**** The Hostel Leave Manager typically supports different user types, each with specific roles and permissions. The main user types are:
 
 - **Student:** Students are the primary users who request leaves. They register using their personal details such as name, contact information, student ID, and any other relevant information required by the hostel administration.
   
