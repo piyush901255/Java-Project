@@ -154,7 +154,7 @@ Figure 3: Dashboard - Select your field of interest.
    
    a. **Submission Form:** The Complaints feature provides a dedicated form where students can submit their complaints. The form may include the following elements:
    
-    - **Complaint Type:** A dropdown menu or selection options where the student can specify the type of complaint (e.g., infrastructure issues, maintenance, noise disturbances, hygiene concerns, etc.).
+   - **Complaint Type:** A dropdown menu or selection options where the student can specify the type of complaint (e.g., infrastructure issues, maintenance, noise disturbances, hygiene concerns, etc.).
     - **Complaint Details:** An open text box where students can provide a detailed description of the complaint, including relevant information such as the location of the issue and any other specifics.
    
    b. **Urgency:** The Complaints feature may include a priority level selection to categorize the urgency of the issue. For example, students can mark their complaints as critical, medium, or low priority based on the severity of the problem.
@@ -165,15 +165,15 @@ addressing their concerns.
    The Complaints feature plays a vital role in maintaining a healthy and conducive living environment in the hostel. It fosters better communication between students and administrators, leading to timely resolutions and improved hostel management. Additionally, the feature allows hostel authorities to identify recurring issues and implement measures to address them effectively.
 
 
-      ![Screenshot 2023-09-23 132534](https://github.com/piyush901255/Java-Project/assets/142660350/787c3f84-06f1-4512-94ff-2d97ae1ba2ab)
+   ![Screenshot 2023-09-23 132534](https://github.com/piyush901255/Java-Project/assets/142660350/787c3f84-06f1-4512-94ff-2d97ae1ba2ab)
 
-      Figure 5: Complains are made via this portal...!
+   Figure 5: Complains are made via this portal...!
 
-      The data from Complaint Form is stored in the complains.txt file which is also kept for the future reference.
+   The data from Complaint Form is stored in the complains.txt file which is also kept for the future reference.
    
-      ![Picture2](https://github.com/piyush901255/Java-Project/assets/142660350/d1f8ba94-d8c8-4257-a936-2e0de630b2dd)
+   ![Picture2](https://github.com/piyush901255/Java-Project/assets/142660350/d1f8ba94-d8c8-4257-a936-2e0de630b2dd)
    
-      Table 2: Stores the data of Complains made by students
+   Table 2: Stores the data of Complains made by students
    
 ## 5. Announcement Form
 
