@@ -138,10 +138,17 @@ Figure 3: Dashboard - Select your field of interest.
 
    Once the student submits the leave request, it enters the approval workflow, where hostel administrators or wardens review the request and either approve or reject it based on the hostel's policies and availability. Throughout the process, the system should provide realtime updates to the student and, if applicable, the parent/guardian, keeping them informed about the status of the leave request.
 
+   ![Picture1](https://github.com/piyush901255/Java-Project/assets/142660350/0e5c8207-f06a-4edc-a416-43e4a23da66c)
+
+   Table 1: Stores the data of Leave Request Submission
+
+   The Leave Submission Form is connected to the database.txt file which stores the data entered by the student. The Database keeps the record of the leave applied by the students.
+
 ![Screenshot 2023-09-23 132509](https://github.com/piyush901255/Java-Project/assets/142660350/08bb417f-f57a-4bf6-8226-d5ab2c923f31)
 
 Figure 4: Leave Request Submission
 
+4. **Complains Submission Form**
 ![Screenshot 2023-09-23 132534](https://github.com/piyush901255/Java-Project/assets/142660350/787c3f84-06f1-4512-94ff-2d97ae1ba2ab)
 
 ![Screenshot 2023-09-23 132551](https://github.com/piyush901255/Java-Project/assets/142660350/1fc56942-5a31-4a92-a1f7-2b6fff5ed0a5)
@@ -163,3 +170,7 @@ This project is licensed under the [MIT License](LICENSE).
 ## Contact
 
 For questions or feedback, reach out to [Piyush Narayan](mailto:piyush901255@gmail.com).
+
+
+![Picture2](https://github.com/piyush901255/Java-Project/assets/142660350/d1f8ba94-d8c8-4257-a936-2e0de630b2dd)
+![Screenshot 2023-09-23 141135](https://github.com/piyush901255/Java-Project/assets/142660350/a9159bb7-dfea-4acb-ae5a-bf3b92f49842)
