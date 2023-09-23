@@ -74,9 +74,11 @@ permissions.
 
 Figure 1: As the Program is executed, the GUI pops up asking for the Registered User Id and Password for the Security reasons.
 
+
 ![Screenshot 2023-09-23 132436](https://github.com/piyush901255/Java-Project/assets/142660350/616e8025-c14a-41d7-b8ee-d606ce9fbbce)
 
 Figure 2: Incorrect Pop up appears if any credentials found incorrect.
+
 
 2. **Dashboard**
 
