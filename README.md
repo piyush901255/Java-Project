@@ -152,6 +152,8 @@ Figure 3: Dashboard - Select your field of interest.
 
       ![Screenshot 2023-09-23 132534](https://github.com/piyush901255/Java-Project/assets/142660350/787c3f84-06f1-4512-94ff-2d97ae1ba2ab)
 
+      Figure 5: Complains are made via this portal...!
+
       The data from Complaint Form is stored in the complains.txt file which is also kept for the future reference.
    
       ![Picture2](https://github.com/piyush901255/Java-Project/assets/142660350/d1f8ba94-d8c8-4257-a936-2e0de630b2dd)
@@ -161,6 +163,8 @@ Figure 3: Dashboard - Select your field of interest.
 6. **Announcement Form**
 
       ![Screenshot 2023-09-23 132551](https://github.com/piyush901255/Java-Project/assets/142660350/1fc56942-5a31-4a92-a1f7-2b6fff5ed0a5)
+
+      Figure 6: Announcements are made via this Portal...!
 
       The data from Announcement Form is stored in the announcements.txt file which is also kept for the future reference.
    
