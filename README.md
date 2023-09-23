@@ -102,10 +102,6 @@ Figure 3: Dashboard - Select your field of interest.
 
    The Leave Request Submission Form in the Hostel Leave Manager is a crucial component that enables students to formally request permission to leave the hostel for a specific duration. It is designed to gather essential information from the students, ensuring that the hostel administration can make informed decisions while processing the leave requests. Here are more details on what the Leave Request Submission Form typically includes:
 
-![Screenshot 2023-09-23 132509](https://github.com/piyush901255/Java-Project/assets/142660350/08bb417f-f57a-4bf6-8226-d5ab2c923f31)
-
-Figure 4: Leave Request Submission
-
    - **Leave Details:**
      
       Leave Start Date and Time: The date and time when the student intends to leave the hostel.
@@ -142,13 +138,17 @@ Figure 4: Leave Request Submission
 
    Once the student submits the leave request, it enters the approval workflow, where hostel administrators or wardens review the request and either approve or reject it based on the hostel's policies and availability. Throughout the process, the system should provide realtime updates to the student and, if applicable, the parent/guardian, keeping them informed about the status of the leave request.
 
-   ![Picture1](https://github.com/piyush901255/Java-Project/assets/142660350/0e5c8207-f06a-4edc-a416-43e4a23da66c)
+   ![Screenshot 2023-09-23 132509](https://github.com/piyush901255/Java-Project/assets/142660350/08bb417f-f57a-4bf6-8226-d5ab2c923f31)
 
-   Table 1: Stores the data of Leave Request Submission
+   Figure 4: Leave Request Submission
 
    The Leave Submission Form is connected to the database.txt file which stores the data entered by the student. The Database keeps the record of the leave applied by the students.
 
-4. **Complains Submission Form**
+   ![Picture1](https://github.com/piyush901255/Java-Project/assets/142660350/0e5c8207-f06a-4edc-a416-43e4a23da66c)
+
+   Table 1: Stores the data of Leave Request Submission
+   
+5. **Complains Submission Form**
 
 ![Screenshot 2023-09-23 132534](https://github.com/piyush901255/Java-Project/assets/142660350/787c3f84-06f1-4512-94ff-2d97ae1ba2ab)
 
