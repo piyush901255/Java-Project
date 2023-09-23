@@ -57,7 +57,7 @@ A comprehensive Hostel Leave Management System developed using Java and Swing.
 
 ## Screenshots
 
-1. ## User Registration:
+## 1. User Registration:
    
    The system allows hostel administrators, students, and parents/guardians to register and create their accounts with relevant details. Each user type will have different access levels and 
 permissions.
@@ -78,7 +78,7 @@ Figure 1: As the Program is executed, the GUI pops up asking for the Registered 
 
 Figure 2: Incorrect Pop up appears if any credentials found incorrect.
 
-2. ## Dashboard
+## 2. Dashboard
 
    The Dashboard shows the heading as NITTE Hostels, NMIT College, followed by a subheading as the location of the College.
 
@@ -98,7 +98,7 @@ Important Notifications: The dashboard may feature a notification centre where u
 
 Figure 3: Dashboard - Select your field of interest.
 
-3. ## Leave Request Submission Form
+## 3. Leave Request Submission Form
 
    The Leave Request Submission Form in the Hostel Leave Manager is a crucial component that enables students to formally request permission to leave the hostel for a specific duration. It is designed to gather essential information from the students, ensuring that the hostel administration can make informed decisions while processing the leave requests. Here are more details on what the Leave Request Submission Form typically includes:
 
@@ -148,7 +148,7 @@ Figure 3: Dashboard - Select your field of interest.
 
      Table 1: Stores the data of Leave Request Submission
    
-4. ## Complains Submission Form
+## 4. Complains Submission Form
 
    The "Complaints" feature refers to a module or functionality that allows hostel residents (students) to lodge complaints or raise issues related to their hostel stay or any other hostel related matters. The Complaints feature is an important aspect of hostel management as it enables students to communicate their concerns and allows the administration to address them promptly. Here are more details on how the Complaints feature typically works:
    
@@ -175,7 +175,7 @@ addressing their concerns.
    
       Table 2: Stores the data of Complains made by students
    
-5. ## Announcement Form
+## 5. Announcement Form
 
    Certainly! In the README file's "Announcement" section, you should provide information about how announcements work in your Hostel Leave Management System. Here's what you can add:
 
