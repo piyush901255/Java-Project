@@ -57,7 +57,7 @@ A comprehensive Hostel Leave Management System developed using Java and Swing.
 
 ## Screenshots
 
-![Screenshot 2023-09-23 131124](https://github.com/piyush901255/Java-Project/assets/142660350/146ea92c-d6e7-4d03-992c-ad50bfa33364)
+![Screenshot 2023-09-23 132426](https://github.com/piyush901255/Java-Project/assets/142660350/5d995d96-95ef-480b-9443-25ff3d88eb52)
 As the Program is executed, the GUI pops up asking for the Registered User Id and Password for the Security reasons.
 
 ## 1. User Registration:
@@ -69,12 +69,13 @@ a. **Student:** Students are the primary users who request leaves. They register
 b. **Parent/Guardian:** If the student is a minor, the system allows parents or guardians to register and link their account to the student's profile. This allows parents to receive notifications and stay updated on the leave requests and approvals.
 c. **Hostel Warden/Administrator:** Hostel wardens or administrators are responsible for overseeing the leave approval process. They register with their official credentials and are granted access to manage leave requests, approve or reject them, and perform other administrative tasks.
 
-![Screenshot 2023-09-23 131137](https://github.com/piyush901255/Java-Project/assets/142660350/0ffae131-2f0e-4ef0-be89-00ff7e3789a6)
+![Screenshot 2023-09-23 132426](https://github.com/piyush901255/Java-Project/assets/142660350/5d995d96-95ef-480b-9443-25ff3d88eb52)
+![Screenshot 2023-09-23 132436](https://github.com/piyush901255/Java-Project/assets/142660350/616e8025-c14a-41d7-b8ee-d606ce9fbbce)
+![Screenshot 2023-09-23 132454](https://github.com/piyush901255/Java-Project/assets/142660350/af288c30-a629-4a2c-b1d5-74b7abf72b93)
+![Screenshot 2023-09-23 132509](https://github.com/piyush901255/Java-Project/assets/142660350/08bb417f-f57a-4bf6-8226-d5ab2c923f31)
+![Screenshot 2023-09-23 132534](https://github.com/piyush901255/Java-Project/assets/142660350/787c3f84-06f1-4512-94ff-2d97ae1ba2ab)
+![Screenshot 2023-09-23 132551](https://github.com/piyush901255/Java-Project/assets/142660350/1fc56942-5a31-4a92-a1f7-2b6fff5ed0a5)
 
-![Screenshot 2023-09-23 131158](https://github.com/piyush901255/Java-Project/assets/142660350/43b5d199-0374-4e54-a76f-de2c89882ab7)
-![Screenshot 2023-09-23 131218](https://github.com/piyush901255/Java-Project/assets/142660350/e7f256f9-8393-4019-bcf1-42eb2468730b)
-![Screenshot 2023-09-23 131305](https://github.com/piyush901255/Java-Project/assets/142660350/09050377-8228-4625-8f40-94df3c776d17)
-![Screenshot 2023-09-23 131326](https://github.com/piyush901255/Java-Project/assets/142660350/47bdd66a-00a6-4157-a170-67b1a553cf10)
 
 ## Contributing
 
