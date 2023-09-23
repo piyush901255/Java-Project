@@ -103,6 +103,7 @@ Figure 3: Dashboard - Select your field of interest.
    The Leave Request Submission Form in the Hostel Leave Manager is a crucial component that enables students to formally request permission to leave the hostel for a specific duration. It is designed to gather essential information from the students, ensuring that the hostel administration can make informed decisions while processing the leave requests. Here are more details on what the Leave Request Submission Form typically includes:
    
    - **Leave Details:**
+     
       Leave Start Date and Time: The date and time when the student intends to leave the hostel.
    
       Leave End Date and Time: The date and time when the student plans to return to the hostel.
@@ -112,23 +113,26 @@ Figure 3: Dashboard - Select your field of interest.
    - **Parent/Guardian Information:**
      
       Name of Parent/Guardian: If the student is a minor, the form may require the name of the responsible parent or guardian.
+     
       Parent/Guardian Contact Information: Phone number of the parent or guardian is fixed and cannot be edited by the students end. It can only be changed as per the request by the Hostel In charge.
 
    - **Emergency Contact:**
      
       Name of Emergency Contact: The name of a person to be contacted in case of an emergency.
+     
       Emergency Contact Relationship: The relationship of the emergency contact to the student (e.g., parent, sibling, relative).
+     
       Emergency Contact Number: Phone number of the emergency contact.
      
-   **Terms and Conditions:**
+   - **Terms and Conditions:**
       The form may include a checkbox or statement asking the student to agree to the hostel's terms and conditions regarding leave requests. This ensures that students are aware of the rules and policies related to leaves.
    
-   **Submission and Confirmation:**
+   - **Submission and Confirmation:**
 
       A "Submit" button: After filling in all the required information, the student clicks this button to submit the leave request.
       Confirmation Message: Upon successful submission, a confirmation message is displayed, indicating that the request has been received and is pending review.
    
-   **Note to the Approval:**
+   - **Note to the Approval:**
 
       It includes the place of Visit and the mode of transport. It's important to design the Leave Request Submission Form to be user-friendly and intuitive. The form should be accessible on various devices, such as desktops, laptops, tablets, and smartphones. Additionally, the form may include input validation to ensure that all required fields are filled in correctly before submission.
 
