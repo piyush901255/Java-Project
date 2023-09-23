@@ -62,7 +62,7 @@ A comprehensive Hostel Leave Management System developed using Java and Swing.
    The system allows hostel administrators, students, and parents/guardians to register and create their accounts with relevant details. Each user type will have different access levels and 
 permissions.
 
-   ****User Types:**** The Hostel Leave Manager typically supports different user types, each with specific roles and permissions. The main user types are:
+   **User Types:** The Hostel Leave Manager typically supports different user types, each with specific roles and permissions. The main user types are:
 
 - **Student:** Students are the primary users who request leaves. They register using their personal details such as name, contact information, student ID, and any other relevant information required by the hostel administration.
   
@@ -70,7 +70,7 @@ permissions.
   
 - **Hostel Warden/Administrator:** Hostel wardens or administrators are responsible for overseeing the leave approval process. They register with their official credentials and are granted access to manage leave requests, approve or reject them, and perform other administrative tasks.
 
-![Screenshot 2023-09-23 132426](https://github.com/piyush901255/Java-Project/assets/142660350/5d995d96-95ef-480b-9443-25ff3d88eb52)
+  ![Screenshot 2023-09-23 132426](https://github.com/piyush901255/Java-Project/assets/142660350/5d995d96-95ef-480b-9443-25ff3d88eb52)
 
 Figure 1
 As the Program is executed, the GUI pops up asking for the Registered User Id and Password for the Security reasons.
@@ -84,7 +84,7 @@ Incorrect Pop up appears if any credentials found incorrect.
 
    The Dashboard shows the heading as NITTE Hostels, NMIT College, followed by a subheading as the location of the College.
 
-It is followed by three options:
+   It is followed by three options:
 
 - **Apply For Leave**
 If the student wants to apply for leave or out pass, he/she must click the Apply For Leave button.
