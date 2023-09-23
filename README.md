@@ -151,6 +151,8 @@ Figure 3: Dashboard - Select your field of interest.
 5. **Complains Submission Form**
 
       ![Screenshot 2023-09-23 132534](https://github.com/piyush901255/Java-Project/assets/142660350/787c3f84-06f1-4512-94ff-2d97ae1ba2ab)
+   
+6. **Announcement Form**
 
       ![Screenshot 2023-09-23 132551](https://github.com/piyush901255/Java-Project/assets/142660350/1fc56942-5a31-4a92-a1f7-2b6fff5ed0a5)
 
