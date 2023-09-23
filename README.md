@@ -72,15 +72,11 @@ permissions.
 
 ![Screenshot 2023-09-23 132426](https://github.com/piyush901255/Java-Project/assets/142660350/5d995d96-95ef-480b-9443-25ff3d88eb52)
 
-Figure 1
-As the Program is executed, the GUI pops up asking for the
-
-Registered User Id and Password for the Security reasons.
+Figure 1: As the Program is executed, the GUI pops up asking for the Registered User Id and Password for the Security reasons.
 
 ![Screenshot 2023-09-23 132436](https://github.com/piyush901255/Java-Project/assets/142660350/616e8025-c14a-41d7-b8ee-d606ce9fbbce)
 
-Figure 2
-Incorrect Pop up appears if any credentials found incorrect.
+Figure 2: Incorrect Pop up appears if any credentials found incorrect.
 
 2. **Dashboard**
 
@@ -88,13 +84,13 @@ Incorrect Pop up appears if any credentials found incorrect.
 
    It is followed by three options:
 
-- **Apply For Leave**
+   - **Apply For Leave**
 If the student wants to apply for leave or out pass, he/she must click the Apply For Leave button.
 
-- **Complaints**
+   - **Complaints**
 A dedicated section for accessing complaints faced by the students, such as fan is not working, or contact information for the system's support team, can be available on the dashboard.
 
-- **Announcements**
+   - **Announcements**
 Important Notifications: The dashboard may feature a notification centre where users can receive updates, reminders, or alerts related to their leave requests or other hostel-related announcements.
 
 ![Screenshot 2023-09-23 132454](https://github.com/piyush901255/Java-Project/assets/142660350/af288c30-a629-4a2c-b1d5-74b7abf72b93)
