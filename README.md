@@ -162,18 +162,18 @@ Figure 3: Dashboard - Select your field of interest.
    c. **Complaint Status Tracking:** The Complaints feature allows students to track the status of their complaints. They can view whether the complaint is under review, in progress, or resolved. Real-time updates keep the students informed about the progress made in 
 addressing their concerns.
 
-The Complaints feature plays a vital role in maintaining a healthy and conducive living environment in the hostel. It fosters better communication between students and administrators, leading to timely resolutions and improved hostel management. Additionally, the feature allows hostel authorities to identify recurring issues and implement measures to address them effectively.
+   The Complaints feature plays a vital role in maintaining a healthy and conducive living environment in the hostel. It fosters better communication between students and administrators, leading to timely resolutions and improved hostel management. Additionally, the feature allows hostel authorities to identify recurring issues and implement measures to address them effectively.
 
 
-   ![Screenshot 2023-09-23 132534](https://github.com/piyush901255/Java-Project/assets/142660350/787c3f84-06f1-4512-94ff-2d97ae1ba2ab)
+      ![Screenshot 2023-09-23 132534](https://github.com/piyush901255/Java-Project/assets/142660350/787c3f84-06f1-4512-94ff-2d97ae1ba2ab)
 
-   Figure 5: Complains are made via this portal...!
+      Figure 5: Complains are made via this portal...!
 
-   The data from Complaint Form is stored in the complains.txt file which is also kept for the future reference.
+      The data from Complaint Form is stored in the complains.txt file which is also kept for the future reference.
    
-   ![Picture2](https://github.com/piyush901255/Java-Project/assets/142660350/d1f8ba94-d8c8-4257-a936-2e0de630b2dd)
+      ![Picture2](https://github.com/piyush901255/Java-Project/assets/142660350/d1f8ba94-d8c8-4257-a936-2e0de630b2dd)
    
-   Table 2: Stores the data of Complains made by students
+      Table 2: Stores the data of Complains made by students
    
 5. ## Announcement Form
 
@@ -181,23 +181,23 @@ The Complaints feature plays a vital role in maintaining a healthy and conducive
 
 ### Announcement
 
-The Announcement feature in the Hostel Leave Management System allows administrators to broadcast important messages and updates to all users. It serves as a convenient way to keep students informed about hostel-related matters in real-time. Here are the key details:
+   The Announcement feature in the Hostel Leave Management System allows administrators to broadcast important messages and updates to all users. It serves as a convenient way to keep students informed about hostel-related matters in real-time. Here are the key details:
 
-- **Viewing Announcements:** Users can access the announcements by clicking on the "Announcements" button on the home screen.
+   - **Viewing Announcements:** Users can access the announcements by clicking on the "Announcements" button on the home screen.
 
-- **Announcement Creation:** Administrators can create and post announcements by filling out the "Announcement Title" and "Announcement Content" fields in the Announcement Form.
+   - **Announcement Creation:** Administrators can create and post announcements by filling out the "Announcement Title" and "Announcement Content" fields in the Announcement Form.
 
-- **Real-time Updates:** When an administrator submits an announcement, it immediately appears in the announcements area on the home screen for all users to see.
+   - **Real-time Updates:** When an administrator submits an announcement, it immediately appears in the announcements area on the home screen for all users to see.
 
-- **Data Storage:** All announcements are stored in a text file, ensuring that important information is preserved and can be referred to later.
+   - **Data Storage:** All announcements are stored in a text file, ensuring that important information is preserved and can be referred to later.
 
-- **Refreshing Announcements:** Users have the option to refresh the announcements area to clear the display and see any new announcements that have been posted.
+   - **Refreshing Announcements:** Users have the option to refresh the announcements area to clear the display and see any new announcements that have been posted.
 
-- **Example Usage:** Administrators can utilize this feature to announce important dates, hostel policy changes, or any other updates relevant to the hostel's residents.
+   - **Example Usage:** Administrators can utilize this feature to announce important dates, hostel policy changes, or any other updates relevant to the hostel's residents.
 
-The Announcement feature is a valuable communication tool that enhances transparency and ensures that all students are aware of important developments within the hostel.
+   The Announcement feature is a valuable communication tool that enhances transparency and ensures that all students are aware of important developments within the hostel.
 
-Additionally, you can include a screenshot of the announcement section from your application to provide a visual representation of how it looks.
+   Additionally, you can include a screenshot of the announcement section from your application to provide a visual representation of how it looks.
 
    ![Screenshot 2023-09-23 132551](https://github.com/piyush901255/Java-Project/assets/142660350/1fc56942-5a31-4a92-a1f7-2b6fff5ed0a5)
 
