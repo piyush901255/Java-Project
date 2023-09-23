@@ -48,7 +48,6 @@ A comprehensive Hostel Leave Management System developed using Java and Swing.
 - **Leave Form:** Allows leave application and data storage.
 - **Complaint Form:** Enables complaint submission.
 - **Announcement Form:** Admin can make announcements.
-- **Utility Methods:** Read announcements from the file.
 
 ## Installation
 
