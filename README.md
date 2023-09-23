@@ -177,15 +177,37 @@ The Complaints feature plays a vital role in maintaining a healthy and conducive
    
 6. **Announcement Form**
 
-      ![Screenshot 2023-09-23 132551](https://github.com/piyush901255/Java-Project/assets/142660350/1fc56942-5a31-4a92-a1f7-2b6fff5ed0a5)
+   Certainly! In the README file's "Announcement" section, you should provide information about how announcements work in your Hostel Leave Management System. Here's what you can add:
 
-      Figure 6: Announcements are made via this Portal...!
+### Announcement
 
-      The data from Announcement Form is stored in the announcements.txt file which is also kept for the future reference.
+The Announcement feature in the Hostel Leave Management System allows administrators to broadcast important messages and updates to all users. It serves as a convenient way to keep students informed about hostel-related matters in real-time. Here are the key details:
+
+- **Viewing Announcements:** Users can access the announcements by clicking on the "Announcements" button on the home screen.
+
+- **Announcement Creation:** Administrators can create and post announcements by filling out the "Announcement Title" and "Announcement Content" fields in the Announcement Form.
+
+- **Real-time Updates:** When an administrator submits an announcement, it immediately appears in the announcements area on the home screen for all users to see.
+
+- **Data Storage:** All announcements are stored in a text file, ensuring that important information is preserved and can be referred to later.
+
+- **Refreshing Announcements:** Users have the option to refresh the announcements area to clear the display and see any new announcements that have been posted.
+
+- **Example Usage:** Administrators can utilize this feature to announce important dates, hostel policy changes, or any other updates relevant to the hostel's residents.
+
+The Announcement feature is a valuable communication tool that enhances transparency and ensures that all students are aware of important developments within the hostel.
+
+Additionally, you can include a screenshot of the announcement section from your application to provide a visual representation of how it looks.
+
+   ![Screenshot 2023-09-23 132551](https://github.com/piyush901255/Java-Project/assets/142660350/1fc56942-5a31-4a92-a1f7-2b6fff5ed0a5)
+
+   Figure 6: Announcements are made via this Portal...!
+
+   The data from Announcement Form is stored in the announcements.txt file which is also kept for the future reference.
    
-      ![Screenshot 2023-09-23 141135](https://github.com/piyush901255/Java-Project/assets/142660350/a9159bb7-dfea-4acb-ae5a-bf3b92f49842)
+   ![Screenshot 2023-09-23 141135](https://github.com/piyush901255/Java-Project/assets/142660350/a9159bb7-dfea-4acb-ae5a-bf3b92f49842)
 
-      Table 3: Stores the data of Announcements  
+   Table 3: Stores the data of Announcements  
 
 ## Contributing
 
