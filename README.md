@@ -57,9 +57,12 @@ A comprehensive Hostel Leave Management System developed using Java and Swing.
 
 ## Screenshots
 
-![Login](screenshots/login.png)
-![Leave Form](screenshots/leave_form.png)
-...
+![Screenshot 2023-09-23 131124](https://github.com/piyush901255/Java-Project/assets/142660350/146ea92c-d6e7-4d03-992c-ad50bfa33364)
+![Screenshot 2023-09-23 131137](https://github.com/piyush901255/Java-Project/assets/142660350/0ffae131-2f0e-4ef0-be89-00ff7e3789a6)
+![Screenshot 2023-09-23 131158](https://github.com/piyush901255/Java-Project/assets/142660350/43b5d199-0374-4e54-a76f-de2c89882ab7)
+![Screenshot 2023-09-23 131218](https://github.com/piyush901255/Java-Project/assets/142660350/e7f256f9-8393-4019-bcf1-42eb2468730b)
+![Screenshot 2023-09-23 131305](https://github.com/piyush901255/Java-Project/assets/142660350/09050377-8228-4625-8f40-94df3c776d17)
+![Screenshot 2023-09-23 131326](https://github.com/piyush901255/Java-Project/assets/142660350/47bdd66a-00a6-4157-a170-67b1a553cf10)
 
 ## Contributing
 
