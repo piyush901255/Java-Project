@@ -152,14 +152,14 @@ Figure 3: Dashboard - Select your field of interest.
 
    The "Complaints" feature refers to a module or functionality that allows hostel residents (students) to lodge complaints or raise issues related to their hostel stay or any other hostelrelated matters. The Complaints feature is an important aspect of hostel management as it enables students to communicate their concerns and allows the administration to address them promptly. Here are more details on how the Complaints feature typically works:
    
-1. **Submission Form:** The Complaints feature provides a dedicated form where students can submit their complaints. The form may include the following elements:
+   a. **Submission Form:** The Complaints feature provides a dedicated form where students can submit their complaints. The form may include the following elements:
    
- - **Complaint Type:** A dropdown menu or selection options where the student can specify the type of complaint (e.g., infrastructure issues, maintenance, noise disturbances, hygiene concerns, etc.).
- - **Complaint Details:** An open text box where students can provide a detailed description of the complaint, including relevant information such as the location of the issue and any other specifics.
+    - **Complaint Type:** A dropdown menu or selection options where the student can specify the type of complaint (e.g., infrastructure issues, maintenance, noise disturbances, hygiene concerns, etc.).
+    - **Complaint Details:** An open text box where students can provide a detailed description of the complaint, including relevant information such as the location of the issue and any other specifics.
    
-2. **Urgency:** The Complaints feature may include a priority level selection to categorize the urgency of the issue. For example, students can mark their complaints as critical, medium, or low priority based on the severity of the problem.
+   b. **Urgency:** The Complaints feature may include a priority level selection to categorize the urgency of the issue. For example, students can mark their complaints as critical, medium, or low priority based on the severity of the problem.
    
-3. **Complaint Status Tracking:** The Complaints feature allows students to track the status of their complaints. They can view whether the complaint is under review, in progress, or resolved. Real-time updates keep the students informed about the progress made in 
+   c. **Complaint Status Tracking:** The Complaints feature allows students to track the status of their complaints. They can view whether the complaint is under review, in progress, or resolved. Real-time updates keep the students informed about the progress made in 
 addressing their concerns.
 
 The Complaints feature plays a vital role in maintaining a healthy and conducive living environment in the hostel. It fosters better communication between students and administrators, leading to timely resolutions and improved hostel management. Additionally, the feature allows hostel authorities to identify recurring issues and implement measures to address them effectively.
