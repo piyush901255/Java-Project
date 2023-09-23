@@ -150,7 +150,7 @@ Figure 3: Dashboard - Select your field of interest.
    
 4. **Complains Submission Form**
 
-   The "Complaints" feature refers to a module or functionality that allows hostel residents (students) to lodge complaints or raise issues related to their hostel stay or any other hostelrelated matters. The Complaints feature is an important aspect of hostel management as it enables students to communicate their concerns and allows the administration to address them promptly. Here are more details on how the Complaints feature typically works:
+   The "Complaints" feature refers to a module or functionality that allows hostel residents (students) to lodge complaints or raise issues related to their hostel stay or any other hostel related matters. The Complaints feature is an important aspect of hostel management as it enables students to communicate their concerns and allows the administration to address them promptly. Here are more details on how the Complaints feature typically works:
    
    a. **Submission Form:** The Complaints feature provides a dedicated form where students can submit their complaints. The form may include the following elements:
    
