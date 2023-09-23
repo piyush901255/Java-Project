@@ -77,4 +77,4 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Contact
 
-For questions or feedback, reach out to [Your Name](mailto:your.email@example.com).
+For questions or feedback, reach out to [Piyush Narayan](mailto:piyush901255@gmail.com).
