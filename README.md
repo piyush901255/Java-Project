@@ -1,4 +1,4 @@
-# Java-Project
+x# Java-Project
 
 # Hostel Leave Management System
 
@@ -57,19 +57,21 @@ A comprehensive Hostel Leave Management System developed using Java and Swing.
 
 ## Screenshots
 
-![Screenshot 2023-09-23 132426](https://github.com/piyush901255/Java-Project/assets/142660350/5d995d96-95ef-480b-9443-25ff3d88eb52)
-As the Program is executed, the GUI pops up asking for the Registered User Id and Password for the Security reasons.
-
-## 1. User Registration:
+1. **User Registration:**
+   
 The system allows hostel administrators, students, and parents/guardians to register and create their accounts with relevant details. Each user type will have different access levels and 
 permissions.
 
-User Types: The Hostel Leave Manager typically supports different user types, each with specific roles and permissions. The main user types are:
-a. **Student:** Students are the primary users who request leaves. They register using their personal details such as name, contact information, student ID, and any other relevant information required by the hostel administration.
-b. **Parent/Guardian:** If the student is a minor, the system allows parents or guardians to register and link their account to the student's profile. This allows parents to receive notifications and stay updated on the leave requests and approvals.
-c. **Hostel Warden/Administrator:** Hostel wardens or administrators are responsible for overseeing the leave approval process. They register with their official credentials and are granted access to manage leave requests, approve or reject them, and perform other administrative tasks.
+**User Types:** The Hostel Leave Manager typically supports different user types, each with specific roles and permissions. The main user types are:
 
-![Screenshot 2023-09-23 132426](https://github.com/piyush901255/Java-Project/assets/142660350/5d995d96-95ef-480b-9443-25ff3d88eb52)
+- **Student:** Students are the primary users who request leaves. They register using their personal details such as name, contact information, student ID, and any other relevant information required by the hostel administration.
+- **Parent/Guardian:** If the student is a minor, the system allows parents or guardians to register and link their account to the student's profile. This allows parents to receive notifications and stay updated on the leave requests and approvals.
+- **Hostel Warden/Administrator:** Hostel wardens or administrators are responsible for overseeing the leave approval process. They register with their official credentials and are granted access to manage leave requests, approve or reject them, and perform other administrative tasks.
+
+![Screenshot 2023-09-23 132426](https://github.com/piyush901255/Java-Project/assets/142660350/5d995d96-95ef-480b-9443-25ff3d88eb52).
+As the Program is executed, the GUI pops up asking for the Registered User Id and Password for the Security reasons.
+
+
 ![Screenshot 2023-09-23 132436](https://github.com/piyush901255/Java-Project/assets/142660350/616e8025-c14a-41d7-b8ee-d606ce9fbbce)
 ![Screenshot 2023-09-23 132454](https://github.com/piyush901255/Java-Project/assets/142660350/af288c30-a629-4a2c-b1d5-74b7abf72b93)
 ![Screenshot 2023-09-23 132509](https://github.com/piyush901255/Java-Project/assets/142660350/08bb417f-f57a-4bf6-8226-d5ab2c923f31)
