@@ -136,13 +136,11 @@ Figure 3: Dashboard - Select your field of interest.
 
       It includes the place of Visit and the mode of transport. It's important to design the Leave Request Submission Form to be user-friendly and intuitive. The form should be accessible on various devices, such as desktops, laptops, tablets, and smartphones. Additionally, the form may include input validation to ensure that all required fields are filled in correctly before submission.
 
-Once the student submits the leave request, it enters the approval workflow, where hostel administrators or wardens review the request and either approve or reject it based on the hostel's policies and availability. Throughout the process, the system should provide realtime updates to the student and, if applicable, the parent/guardian, keeping them informed about the status of the leave request.
-
+   Once the student submits the leave request, it enters the approval workflow, where hostel administrators or wardens review the request and either approve or reject it based on the hostel's policies and availability. Throughout the process, the system should provide realtime updates to the student and, if applicable, the parent/guardian, keeping them informed about the status of the leave request.
 
 ![Screenshot 2023-09-23 132509](https://github.com/piyush901255/Java-Project/assets/142660350/08bb417f-f57a-4bf6-8226-d5ab2c923f31)
 
 Figure 4: Leave Request Submission
-
 
 ![Screenshot 2023-09-23 132534](https://github.com/piyush901255/Java-Project/assets/142660350/787c3f84-06f1-4512-94ff-2d97ae1ba2ab)
 
