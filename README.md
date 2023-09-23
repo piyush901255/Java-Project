@@ -101,7 +101,11 @@ Figure 3: Dashboard - Select your field of interest.
 3. **Leave Request Submission Form**
 
    The Leave Request Submission Form in the Hostel Leave Manager is a crucial component that enables students to formally request permission to leave the hostel for a specific duration. It is designed to gather essential information from the students, ensuring that the hostel administration can make informed decisions while processing the leave requests. Here are more details on what the Leave Request Submission Form typically includes:
-   
+
+![Screenshot 2023-09-23 132509](https://github.com/piyush901255/Java-Project/assets/142660350/08bb417f-f57a-4bf6-8226-d5ab2c923f31)
+
+Figure 4: Leave Request Submission
+
    - **Leave Details:**
      
       Leave Start Date and Time: The date and time when the student intends to leave the hostel.
@@ -144,11 +148,8 @@ Figure 3: Dashboard - Select your field of interest.
 
    The Leave Submission Form is connected to the database.txt file which stores the data entered by the student. The Database keeps the record of the leave applied by the students.
 
-![Screenshot 2023-09-23 132509](https://github.com/piyush901255/Java-Project/assets/142660350/08bb417f-f57a-4bf6-8226-d5ab2c923f31)
-
-Figure 4: Leave Request Submission
-
 4. **Complains Submission Form**
+
 ![Screenshot 2023-09-23 132534](https://github.com/piyush901255/Java-Project/assets/142660350/787c3f84-06f1-4512-94ff-2d97ae1ba2ab)
 
 ![Screenshot 2023-09-23 132551](https://github.com/piyush901255/Java-Project/assets/142660350/1fc56942-5a31-4a92-a1f7-2b6fff5ed0a5)
