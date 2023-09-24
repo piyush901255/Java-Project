@@ -213,15 +213,6 @@ addressing their concerns.
 
 Contributions are welcome! Please follow the standard guidelines.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
-## Acknowledgments
-
-- Thanks to [Resource Name](resource_link) for the tutorial on XYZ.
-- Used [Library Name](library_link) for handling file I/O.
-
 ## Contact
 
 For questions or feedback, reach out to [Piyush Narayan](mailto:piyush901255@gmail.com).
